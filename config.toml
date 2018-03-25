@@ -1,4 +1,4 @@
-baseURL = "http://pedramnavid.github.io"
+baseURL = "https://pedramnavid.me"
 languageCode = "en"
 title = "Pedram Navid"
 theme = "hugo-nuo"
