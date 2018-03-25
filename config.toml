@@ -1,0 +1,54 @@
+baseURL = "http://pedramnavid.github.io"
+languageCode = "en"
+title = "Pedram Navid"
+theme = "hugo-nuo"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+enableEmoji = true
+
+# Ignore naughty files
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Google Analytics UA number
+googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Github"
+  weight = 20
+  identifier = "github"
+  url = "https://github.com/pedramnavid"
+
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+
+# Add your own params here
+[params]
+  author = "Pedram Navid"
+  avatar = "/img/avatar.jpg"
+  seotitle = "Pedram Navid - Adventures in Data, Science, R "
+  subtitle = "adventures in data and science."
+  description = ""
+  paginate = 10
+
+  # Choose your social networks
+  email = "pedram.navid@gmail.com"
+  github = "itspedram"
+  twitter = "helloitspedr"
+  linkedin = "pedramnavid"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
