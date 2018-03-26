@@ -5,6 +5,7 @@ sudo: false
 branches:
   only:
     - master
+    - dev
 
 cache:
   packages: yes
@@ -12,10 +13,10 @@ cache:
     - $HOME/bin
 
 before_script:
-  - "Rscript -e 'blogdown::install_hugo()'"
+  - "R -e 'blogdown::install_hugo()'"
 
 script:
-  - "Rscript -e 'blogdown::build_site()'"
+  - "R -e 'blogdown::build_site()'"
 
 deploy:
   provider: pages
