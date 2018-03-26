@@ -1,4 +1,4 @@
-nguage: r
+language: r
 dist: trusty
 sudo: false
 
