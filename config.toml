@@ -11,7 +11,7 @@ enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Google Analytics UA number
-googleAnalytics = "UA-XXXXXXXX-X"
+googleAnalytics = "UA-25192626-4"
 
 # Copyright of your post
 copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce."
@@ -46,7 +46,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Choose your social networks
   email = "pedram.navid@gmail.com"
-  github = "itspedram"
+  github = "pedramnavid"
   twitter = "helloitspedr"
   linkedin = "pedramnavid"
 
