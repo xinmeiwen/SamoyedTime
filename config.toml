@@ -32,8 +32,8 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 # Add your own params here
 [params]
   author = "SamoyedTime"
-  bg = "images/grey-prism.svg"
-  avatar = "images/avatar.png"
+  bg = "/images/grey-prism.svg"
+  avatar = "/images/avatar.png"
   seotitle = "Samoyed Time"
   subtitle = "~ Samoyed Dog Breed Information ~"
   description = "Originally bred to hunt, haul sledges, and herd reindeer, the Samoyed dog breed proved a valuable companion for northwestern Siberia’s Samoyede people.."
