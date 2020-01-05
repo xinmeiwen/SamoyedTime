@@ -1408,9 +1408,10 @@ iframe {
     margin: 0 auto !important;
 }
 
-@media screen and (max-width: 800px)
+
+@media screen and (max-width:800px) {
 iframe {
     margin: 0 auto !important;
     min-width: 280px !important;
-
+	}
 }
