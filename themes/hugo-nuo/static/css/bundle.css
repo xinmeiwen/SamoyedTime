@@ -1324,62 +1324,6 @@ table.is-striped tbody tr:not(.is-selected):nth-child(even):hover {
 	}
 }
 
-.offscreen {
-	position: absolute;
-	left: -1024rem
-}
-
-.suspension {
-	position: fixed;
-	bottom: 3rem;
-	right: 2rem;
-	z-index: 1000
-}
-
-.suspension a {
-	display: block;
-	width: 2.5rem;
-	height: 2.5rem;
-	line-height: 2.5rem;
-	border-radius: 50%;
-	background-color: #fafafa;
-	border: 1px solid #fff;
-	box-shadow: 0 1px 4px rgba(0,0,0,.3);
-	text-align: center;
-	opacity: 1;
-	cursor: pointer
-}
-
-.suspension a+a {
-	margin-top: 1rem
-}
-
-.suspension a.to-top {
-	color: #797979;
-	transition: all ease-out .5s
-}
-
-.suspension a.to-top:hover {
-	color: #fff;
-	background-color: #797979;
-	border-color: #797979
-}
-
-.suspension a.to-comment {
-	color: #5fbf5e;
-	transition: all ease-out .5s
-}
-
-.suspension a.to-comment:hover {
-	color: #fff;
-	background-color: #5fbf5e;
-	border-color: #5fbf5e
-}
-
-.suspension .is-hide {
-	display: none
-}
-
 .not-found {
 	position: absolute;
 	top: 0;
