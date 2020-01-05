@@ -1403,3 +1403,14 @@ table.is-striped tbody tr:not(.is-selected):nth-child(even):hover {
 	background-color: #5fbf5e;
 	opacity: .8
 }
+
+iframe {
+    margin: 0 auto !important;
+}
+
+@media screen and (max-width: 800px)
+iframe {
+    margin: 0 auto !important;
+    min-width: 280px !important;
+
+}
