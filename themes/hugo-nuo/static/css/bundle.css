@@ -442,17 +442,7 @@ a:focus,a:hover {
 	transform: rotate(180deg)
 }
 
-@media screen and (max-width:800px) {
-	.avatar {
-		position: absolute;
-		top: 1rem;
-		left: 1rem;
-		width: 2rem;
-		height: 2rem;
-		margin-top: 0;
-		border: 2px solid #fff
-	}
-}
+
 
 .title {
 	font-size: 1.5rem;
@@ -461,11 +451,7 @@ a:focus,a:hover {
 	margin: 1rem auto
 }
 
-@media screen and (max-width:800px) {
-	.title {
-		margin-top: 3rem
-	}
-}
+
 
 .subtitle {
 	margin-bottom: 3rem;
