@@ -405,7 +405,8 @@ a:focus,a:hover {
 }
 
 .site-footer {
-	display: none
+			font-size: 1.2rem;
+		text-align: center;
 }
 
 @media screen and (max-width:800px) {
