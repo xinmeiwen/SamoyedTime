@@ -3,7 +3,7 @@ author = ""
 categories = ["Samoyed"]
 cover = "/uploads/cute-photos-samoyed-dogs.jpg"
 date = 2020-01-04T16:00:00Z
-description = ""
+description = "The first time we spotted a Samoyed dog, we had no idea how much we'd fall in love with the breed — the thick, white, double-layer coat makes them look like real-life bears just looking for a human cuddle. "
 tags = []
 title = "14 Cutest Photos of Samoyed Puppies We've Ever Seen"
 
