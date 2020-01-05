@@ -321,7 +321,7 @@ html {
 }
 
 body {
-	color: #4a4a4a;
+	color: #222;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -331,13 +331,13 @@ body {
 }
 
 a {
-	color: #363636;
+	color: #222;
 	opacity: .7;
 	text-decoration: none
 }
 
 a:focus,a:hover {
-	color: #242424;
+	color: #111;
 	opacity: 1;
 	outline: 0
 }
@@ -823,7 +823,7 @@ position: absolute;
 }
 
 .post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6 {
-	color: #363636;
+	color: #222;
 	font-weight: 500;
 	line-height: 1.125;
 	text-align: left
@@ -868,7 +868,7 @@ position: absolute;
 .post-content p {
 	margin-top: 1.5rem;
 	margin-bottom: 1.5rem;
-	text-align: justify
+
 }
 
 .post-content blockquote {
