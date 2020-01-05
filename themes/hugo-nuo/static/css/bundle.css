@@ -389,8 +389,6 @@ a:focus,a:hover {
 @media screen and (max-width:800px) {
 	.main {
 		margin-left: 0;
-		padding: 0 1rem;
-		width: 100%;
 		min-height: initial;
 		border-left: none;
 		border-right: none;
