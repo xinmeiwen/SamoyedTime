@@ -24,3 +24,8 @@ fields:
 - type: text
   name: author
   label: author
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
