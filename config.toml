@@ -1,6 +1,6 @@
-baseURL = "https://pedramnavid.me"
+baseURL = "/"
 languageCode = "en"
-title = "Pedram Navid"
+title = "Samoyed Time"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -11,7 +11,7 @@ enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Google Analytics UA number
-googleAnalytics = "UA-25192626-4"
+googleAnalytics = "UA-2333333-4"
 
 # Copyright of your post
 copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce."
@@ -24,12 +24,6 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   url = "/"
 
 [[menu.main]]
-  name = "Github"
-  weight = 20
-  identifier = "github"
-  url = "https://github.com/pedramnavid"
-
-[[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
@@ -37,11 +31,12 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Add your own params here
 [params]
-  author = "Pedram Navid"
-  avatar = "/img/avatar.jpg"
-  seotitle = "Pedram Navid - Adventures in Data, Science, R "
-  subtitle = "adventures in data and science."
-  description = ""
+  author = "SamoyedTime"
+  bg = "images/grey-prism.svg"
+  avatar = "images/avatar.png"
+  seotitle = "Samoyed Time"
+  subtitle = "~ Samoyed Dog Breed Information ~"
+  description = "Originally bred to hunt, haul sledges, and herd reindeer, the Samoyed dog breed proved a valuable companion for northwestern Siberia’s Samoyede people.."
   paginate = 10
 
   # Choose your social networks
